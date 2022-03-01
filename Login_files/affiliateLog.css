@@ -106,3 +106,7 @@ body {
     padding-right: 10px;
     height: 20px;
 }
+
+.btn-pricelist {
+    min-width: 250px;
+}
